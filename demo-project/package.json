@@ -34,7 +34,8 @@
   },
   "scripts": {
     "precommit": "lint-staged",
-    "start": "babel-node src/server"
+    "start": "babel-node src/server",
+    "prestart": "webpack"
   },
   "lint-staged": {
     "*.tsx": [

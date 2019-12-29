@@ -2,9 +2,7 @@ module.exports = {
   mode: 'development',
   entry: {
     login: './src/client/login.js',
-    register: './src/client/register.js',
-    'password-reset': './src/client/password-reset.js',
-    'change-password': './src/client/change-password.js',
+    register: './src/client/register.js'
   },
   output: {
     path: __dirname + '/public',
