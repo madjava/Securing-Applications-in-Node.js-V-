@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "id": 1,
+    "authorUsername": "daf",
+    "body": "new post"
+  },
+  {
+    "id": 2,
+    "authorUsername": "daf",
+    "body": "I am stupid"
+  },
+  {
+    "id": 3,
+    "authorUsername": "daf",
+    "body": "I am stupid"
+  },
+  {
+    "id": 4,
+    "authorUsername": "daf",
+    "body": "I am stupid"
+  },
+  {
+    "id": 5,
+    "authorUsername": "kafkaf",
+    "body": "me"
+  },
+  {
+    "id": 6,
+    "authorUsername": "kafkaf",
+    "body": "I am stupid"
+  },
+  {
+    "id": 7,
+    "authorUsername": "kafkaf",
+    "body": "ok\r\n"
+  },
+  {
+    "id": 8,
+    "authorUsername": "kafkaf",
+    "body": "hello"
+  },
+  {
+    "id": 9,
+    "authorUsername": "kafkaf",
+    "body": "yes it is"
+  },
+  {
+    "id": 10,
+    "authorUsername": "daf",
+    "body": "ok"
+  },
+  {
+    "id": 11,
+    "authorUsername": "Bob",
+    "body": "I bad move"
+  }
+]
